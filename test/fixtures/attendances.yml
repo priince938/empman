@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  timein: 2021-01-11 13:08:46
+  timeout: 2021-01-11 13:08:46
+  remark: MyString
+
+two:
+  employee: two
+  timein: 2021-01-11 13:08:46
+  timeout: 2021-01-11 13:08:46
+  remark: MyString

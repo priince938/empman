@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  website: MyString
+  domain_name: MyString
+  Address: MyString
+  intime: 2021-01-08 18:14:26
+  outtime: 2021-01-08 18:14:26
+
+two:
+  name: MyString
+  website: MyString
+  domain_name: MyString
+  Address: MyString
+  intime: 2021-01-08 18:14:26
+  outtime: 2021-01-08 18:14:26
